@@ -1,10 +1,1 @@
 ID,username,password,account_type,date_created
-230020,yes,123123123,student,2024-11-26 05:25:11
-123456,yes,321321321,teacher,2024-11-26 16:59:14
-admin,admin,123,admin,2024-11-26 22:35:28
-student,student,123,student,2024-11-26 22:35:28
-jeys,Jason,123,student,2024-12-03 14:44:54
-burat,tite,123,admin,2024-12-03 14:46:11
-NatNat,Nat,123,admin,2024-12-04 14:32:12
-mikai,kai,MIKAI_password,admin,2024-12-04 14:32:49
-230020,tantan,123123123,student,"2024-12-05 01:45:43"
